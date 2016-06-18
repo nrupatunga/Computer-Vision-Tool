@@ -20,9 +20,7 @@ Download the executable and install and run the ImageProcessingApp.exe
 ##How to use
 Please check out the demo [video](https://nrupatunga-gmail.tinytake.com/sf/NzUyNTg4XzM0NDE0OTM)
 
-Screenshot        |    
-:-------------------------:|
-![](https://github.com/nrupatunga/Computer-Vision-Tool/blob/master/screenshot/ImageProcessingApp-1.PNG)
+![](https://github.com/nrupatunga/Computer-Vision-Tool/blob/master/screenshot/ImageProcessingApp.PNG)|![](![](https://github.com/nrupatunga/Computer-Vision-Tool/blob/master/screenshot/ImageProcessingApp-1.PNG)
 
 
   
