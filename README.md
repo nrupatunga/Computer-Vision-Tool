@@ -18,7 +18,7 @@ Currently this application supports following functionalities from OpenCV
 Download the executable and install and run the ImageProcessingApp.exe
 
 ## How to use
-Please check out the demo [video](https://nrupatunga-gmail.tinytake.com/sf/NzUyNTg4XzM0NDE0OTM)
+Please check out the demo [video](https://youtu.be/qlUOEWcEF18)
 
 ## Screenshot
 One             |  Two
